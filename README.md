@@ -1,6 +1,6 @@
 # Classical Chinese Collection
 
-Welcome to the Classical Chinese Collection repository, a collection of classical Chinese text aimed at preserving and promoting the cultural heritage of China and East Asia. This repository is part of a larger effort by nk2028 to digitise and preserve classical Chinese text for future generations.
+Welcome to the classical Chinese Collection repository, a collection of classical Chinese text aimed at preserving and promoting the cultural heritage of China and East Asia. This repository is part of a larger effort by nk2028 to digitise and preserve classical Chinese text for future generations.
 
 ```raw
 In halls of ancient learning, where the sage
@@ -19,7 +19,7 @@ With algorithms that analyse and net
 Its knowledge, making it a dazzling sight.
 
 So let this repository be the place
-Where Classical Chinese shines with regal grace.
+Where classical Chinese shines with regal grace.
 ```
 
 ## Significance
